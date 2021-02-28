@@ -1,0 +1,2 @@
+## Generalization, Overfitting and Underfitting
+Our goal in supervised learning is to build model on the training data so that we can make accurate predictions on unseen data; our model is able to generalize as well as possible. 
